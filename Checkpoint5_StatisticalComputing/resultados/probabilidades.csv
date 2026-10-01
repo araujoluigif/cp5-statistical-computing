@@ -1,0 +1,5 @@
+﻿Evento,Modelo,Probabilidade,Frequência observada
+Álcool > 14,Normal ajustada,0.10915600650447127,0.12359550561797752
+12 < Álcool < 14,Normal ajustada,0.7819724137515733,0.7528089887640449
+Ácido málico > 3,Empírica,0.2640449438202247,0.2640449438202247
+Ácido málico < 2,Empírica,0.5617977528089888,0.5617977528089888
